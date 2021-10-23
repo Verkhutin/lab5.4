@@ -57,7 +57,7 @@ int main() {
 	cout << endl;
 
 	cout << "S1 = " << S1(N, N) << endl;
-	cout << "S2 = " << S1(1, N) << endl;
+	cout << "S2 = " << S2(N, 1) << endl;
 	cout << "S3 = " << S3(1, N, 0) << endl;
 	cout << "S4 = " << S4(N, 1, 0) << endl;
 	cout << "S5 = " << S5(N) << endl;
