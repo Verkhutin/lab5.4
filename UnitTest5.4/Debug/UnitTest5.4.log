@@ -1,0 +1,11 @@
+﻿  UnitTest5.4.cpp
+C:\Projects\C++\Lab5.4\Lab5.4\lab5.4.cpp(59,27): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Projects\C++\Lab5.4\Lab5.4\lab5.4.cpp(59,24): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Projects\C++\Lab5.4\Lab5.4\lab5.4.cpp(60,27): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Projects\C++\Lab5.4\Lab5.4\lab5.4.cpp(61,27): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Projects\C++\Lab5.4\Lab5.4\lab5.4.cpp(62,24): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Projects\C++\Lab5.4\Lab5.4\lab5.4.cpp(63,24): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Projects\C++\Lab5.4\Lab5.4\lab5.4.cpp(55,15): warning C4101: 's': unreferenced local variable
+C:\Projects\C++\Lab5.4\Lab5.4\lab5.4.cpp(55,9): warning C4101: 'i': unreferenced local variable
+C:\Projects\C++\Lab5.4\UnitTest5.4\UnitTest5.4.cpp(16,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  UnitTest5.4.vcxproj -> C:\Projects\C++\Lab5.4\Debug\UnitTest5.4.dll
